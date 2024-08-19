@@ -1,3 +1,5 @@
 .idea
 .venv
 key.py
+__pycache__
+*.pyc
